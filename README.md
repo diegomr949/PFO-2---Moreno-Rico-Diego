@@ -29,9 +29,3 @@ Almacenar contraseñas en texto plano expone las credenciales si la base de dato
 
 **Ventajas de usar SQLite en este proyecto:**
 SQLite es un motor de base de datos transaccional autocontenido en un simple archivo local. No requiere instalar, configurar ni mantener servicios adicionales en el sistema operativo, lo que facilita enormemente la portabilidad del código, agiliza el desarrollo y cumple perfectamente con la necesidad de persistencia requerida para esta API.
-
-## Capturas de Pantalla (Pruebas Exitosas)
-*(Nota: Reemplaza las siguientes líneas con las imágenes de tu terminal funcionando)*
-- [Insertar captura del registro exitoso aquí]
-- [Insertar captura del login exitoso aquí]
-- [Insertar captura de la visualización del HTML de tareas aquí]
